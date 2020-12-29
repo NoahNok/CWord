@@ -1,0 +1,46 @@
+Welcome to my CS132 - Full Editor
+
+This is an example file called "demo"
+made using the "Full Editor"
+
+
+1234567890
+abcdefghijlkmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+!"£$%^&*()_+-=[]{}:;@'~#<>,./?\|¬`
+
+
+Supporting all keys that C char can represent
+
+
+We can have realllllllllllllllllllllllllllllllllllllllllllllllllly looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong linessssssssssssssssssssssssssssssssssssssssssssssss
+
+(Will overflow if terminal isn't wide enough so yo ucan read them
+)
+
+Mmmmm more content
+void iHateC(){
+	printf("Supports tabs aswell!");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last line :(
+void iHateC(){
+23      printf("Supports tabs aswell!");
+24  }
+emmène-moi à l'église
+你好
+
