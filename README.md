@@ -1,7 +1,7 @@
 # CWord
 A Basic File Editor made in C.
 
-This was the result of many hours worth of effort for a University Coursework.
+This was the result of many hours worth of effort.
 
 ## Compilation
 Make sure you have NCurses installed, then run the following command:
