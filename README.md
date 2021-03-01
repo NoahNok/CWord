@@ -43,7 +43,7 @@ You can navigate using the up and down arrow keys, type out lines next to the pr
 #### Useful Notes
 I recommend 21 lines as the editor size!
 
-Use ```bash !h ``` for help
+Use ```!h ``` for help
 **CTRL + D** to delete the current line
 **CTRL + E** to leave the editor
 
