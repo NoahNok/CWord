@@ -91,7 +91,7 @@ int main(int argc, char *argv[]){
  */
 void mainProgramRun(){
     clearScreen();
-    infoScreen("Welcome to CWord\n\nWritten by Noah Hollowell\nNoah.Hollowell@warwick.ac.uk\nCopyright 2020");
+    infoScreen("Welcome to CWord\n\nWritten by Noah Hollowell\nNoah.Hollowell@warwick.ac.uk\nCopyright 2020-2021");
     mainMenu();
 }
 
